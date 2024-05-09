@@ -50,7 +50,6 @@ switch (escolha)
         break;
     default:
         throw new Exception("Erro. Suíte inexistente.");
-        break;
 }
 
 Console.Write("Insira a quantidade de Hóspedes: ");
